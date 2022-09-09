@@ -24,7 +24,7 @@
  
 </p>
 
-### 📹 Últimos proyectos en mi github
+### 📹 Últimos proyectos en los que he trabajado
 
 <ol>
   <li> ✅ Bot personalizado para un servidor de discord.</li>
