@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/manuel-duque-n/" target="blank" style='margin-right:4px'>
+   <a href="https://www.linkedin.com/in/manuel-duque-n/" target="blank" style="margin-right: 4px;">
     <img align="center" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="Manuel Duque N" height="28px" width="28px"/>
   </a>
   
- <a href="https://www.linkedin.com/in/manuel-duque-n/" target="blank" style='margin-right:4px'>
+ <a href="https://www.linkedin.com/in/manuel-duque-n/" target="blank" style="margin-right: 4px;">
   
  </a>
  
@@ -26,7 +26,6 @@
 
 ### 📹 Últimos proyectos en los que he trabajado
 
-<ol>
-  <li> ✅ Bot personalizado para un servidor de discord.</li>
-  <li> ✅ Plugin para servidores que permite recrear una película en minecraft.</li>
-</ol>
+> 👉 Bot personalizado para un servidor de discord.
+
+> 👉 Plugin para servidores que permite recrear una película en minecraft.
