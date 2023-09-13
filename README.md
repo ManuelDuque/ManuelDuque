@@ -23,9 +23,3 @@
  </a>
  
 </p>
-
-### 📹 Últimos proyectos en los que he trabajado
-
-> 👉 Bot personalizado para un servidor de discord.
-
-> 👉 Plugin para servidores que permite recrear una película en minecraft.
