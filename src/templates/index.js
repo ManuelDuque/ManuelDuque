@@ -47,6 +47,10 @@ export async function processTemplate(name) {
     let readmeContent = templateContent;
     
     return new Promise((resolve, reject) => {
+        if (!scopes) {
+            resolve(readmeContent);
+        }
+        
         // Await all the scopes
         Promise.all(
             scopes.map(async scope => {
