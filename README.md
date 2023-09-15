@@ -1,20 +1,18 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/53149755?v=4" />
-   <h3 align="center">¡Hola 👋! Soy Manuel 👨🏻‍💻</h3>
-</p>
+<div align="center">
+  <img src="./assets/welcome.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 <p align="center">
-  Actualmente estoy <strong>estudiando</strong> en la universidad.
-  <br><br>
-  He desarrollado varios <strong>proyectos personales</strong> en los que he utilizado, y con los que he aprendido,
+  I have developed several <strong>personal projects</strong> in which I have used, and with which I have learned,
   <br>
-  <strong>múltiples lenguajes</strong> de programación.
+  <strong>multiple programming languages</strong>.
   <br><br>
-  ¡Además, me puedes encontrar por aquí 👇!
+
+  ¡You can also find me here 👇!
 </p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/manuel-duque-n/" target="blank" style="margin-right: 4px;">
-    <img align="center" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="Manuel Duque N" height="28px" width="28px"/>
+    <img align="center" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="Manuel Duque" height="28px" width="28px"/>
   </a> 
 </p>
