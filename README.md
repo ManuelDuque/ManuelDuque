@@ -32,9 +32,9 @@ Bienvenido a mi perfil de GitHub. Soy ingeniero de software con foco en intelige
 
 <div align="center">
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ManuelDuque&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ManuelDuque)
+[![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManuelDuque&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelDuque&layout=compact)](https://github.com/ManuelDuque)
+[![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManuelDuque&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Racha de contribuciones](https://streak-stats.demolab.com?user=ManuelDuque)](https://git.io/streak-stats)
 
