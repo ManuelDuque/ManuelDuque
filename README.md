@@ -1,48 +1,57 @@
 # ¡Hola! 👋 Soy Manuel Duque
 
 <p align="justify">
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante de ingeniería de software y un apasionado de la programación. Me encanta aprender nuevas tecnologías y desarrollar proyectos personales.
+Bienvenido a mi perfil de GitHub. Soy ingeniero de software con foco en inteligencia artificial, desarrollo backend y productos full-stack. Me gusta construir soluciones prácticas, escalables y bien diseñadas.
 </p>
 
 ## Sobre mí
 
-- 🎓 Actualmente estoy estudiando Ingeniería de Software en la Universidad de Extremadura (España).
-- 📚 Estoy interesado en el desarrollo web y en la inteligencia artificial.
-- 🔭 Actualmente estoy trabajando en un bot de Discord.
-- 💬 Puedes preguntarme lo que quieras sobre mí.
-- 😄 Pronombres: He/Him.
+- 💻 Me especializo en desarrollar aplicaciones de extremo a extremo con Python y JavaScript.
+- 🤖 Trabajo en proyectos de IA aplicada, visión por computador y sistemas RAG.
+- ⚙️ Me interesa la arquitectura de software, APIs robustas y buenas prácticas de desarrollo.
+- 📚 Estoy en aprendizaje continuo para mantenerme al día con nuevas tecnologías.
 
 ## Habilidades y Tecnologías
 
-<!-- Lista los lenguajes de: c++, java, python -->
-- **Lenguajes de Programación:** C++, Java, Python, JavaScript, HTML, CSS, SQL, React, Node.js, Neo4J
-- **Frameworks y Bibliotecas:** NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, Next.js, Tailwind CSS
-- **Herramientas y Entornos:** Git, GitHub, Visual Studio Code, IntelliJ IDEA, Jupyter Notebook, MySQL, Neo4J, Heroku, Netlify, Render
+- **Lenguajes de Programación:** Python, JavaScript, SQL, C++, Java
+- **Frameworks y Bibliotecas:** FastAPI, React, TensorFlow, PyTorch, LangChain, NumPy, Pandas
+- **Herramientas y Entornos:** Git, GitHub, Visual Studio Code, Jupyter, SQL/NoSQL
+
+## Proyectos destacados
+
+- **Clasificación de Cáncer de Pulmón (multimodal)**  
+  IA para detección temprana combinando visión por computador y señales clínicas.
+
+- **Predicción de fallos en turbinas eólicas**  
+  Modelado con deep learning para mantenimiento predictivo sobre señales sensoriales.
+
+- **Plataforma RAG Full-stack**  
+  Sistema de consulta sobre documentación y código con citación de fuentes.
 
 ## Estadísticas de GitHub públicas 📈
 
 <div align="center">
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ManuelDuque&show_icons=true&hide_title=true&hide_border=false&count_private=true&bg_color=45,0b0b0b,1a1a1a&text_color=ffffff&icon_color=58a6ff&border_color=58a6ff)](https://github.com/ManuelDuque)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ManuelDuque&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ManuelDuque)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelDuque&layout=donut-vertical&hide_title=true&hide_border=false&show_icons=true&bg_color=90,0b0b0b,1a1a1a&text_color=ffffff&icon_color=58a6ff&border_color=58a6ff)](https://github.com/ManuelDuque)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelDuque&layout=compact)](https://github.com/ManuelDuque)
+
+[![Racha de contribuciones](https://streak-stats.demolab.com?user=ManuelDuque)](https://git.io/streak-stats)
+
+[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=ManuelDuque&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## Contacto
+## Enlaces
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en:
-
-- LinkedIn: [Manuel-Duque](https://www.linkedin.com/in/manuel-duque-n/)
-- Correo Electrónico: [manuelduque.dev@gmail.com](mailto:manuelduque.dev@gmail.com)
+- LinkedIn: [Manuel Duque](https://www.linkedin.com/in/manuel-duque-n/)
 
 ## Contribuciones
 
 <p align="center">
-¡Si te gusta alguno de mis proyectos, estaré encantado de recibir contribuciones! Por favor, ¡abre una issue o envía una solicitud!
+Si te interesa alguno de mis proyectos, estaré encantado de recibir feedback o contribuciones mediante issues y pull requests.
 </p>
 
 <p align="center">
 ¡Gracias por visitar mi perfil! 😊
 </p>
-
